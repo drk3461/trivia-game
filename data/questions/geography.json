@@ -1,0 +1,34 @@
+[
+  {
+    "id": "geo-1-1",
+    "level": 1,
+    "question": "What is the capital city of Australia?",
+    "answer": "Canberra",
+    "explanation": "Sydney is bigger, but Canberra was purpose-built as the compromise capital.",
+    "tags": []
+  },
+  {
+    "id": "geo-2-2",
+    "level": 2,
+    "question": "Which country has the most time zones when you count its overseas territories?",
+    "answer": "France",
+    "explanation": "Overseas territories give France 12 or more time zones.",
+    "tags": []
+  },
+  {
+    "id": "geo-3-3",
+    "level": 3,
+    "question": "Lake Titicaca sits on the border of which two countries?",
+    "answer": "Peru and Bolivia",
+    "explanation": "It is the highest large lake that ships can navigate.",
+    "tags": []
+  },
+  {
+    "id": "geo-4-4",
+    "level": 4,
+    "question": "Which is the only country that borders both the Caspian Sea and the Persian Gulf?",
+    "answer": "Iran",
+    "explanation": "Iran has coastlines on both bodies of water.",
+    "tags": []
+  }
+]

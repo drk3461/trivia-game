@@ -1,0 +1,34 @@
+[
+  {
+    "id": "show-1-1",
+    "level": 1,
+    "question": "In Game of Thrones, which noble house uses a direwolf as its sigil?",
+    "answer": "House Stark",
+    "explanation": "Their words are 'Winter is Coming'.",
+    "tags": []
+  },
+  {
+    "id": "show-2-2",
+    "level": 2,
+    "question": "In Breaking Bad, what alias does Walter White use as a drug manufacturer?",
+    "answer": "Heisenberg",
+    "explanation": "He picks it up in the first season.",
+    "tags": []
+  },
+  {
+    "id": "show-3-3",
+    "level": 3,
+    "question": "In Inception, what small object does Cobb spin to test whether he is dreaming?",
+    "answer": "A spinning top",
+    "explanation": "It is his wife's totem, not originally his.",
+    "tags": []
+  },
+  {
+    "id": "show-4-4",
+    "level": 4,
+    "question": "In Parasite (2019), what is the surname of the wealthy family the Kims infiltrate?",
+    "answer": "Park",
+    "explanation": "The Kims are the poor family that works its way into the Parks' house.",
+    "tags": []
+  }
+]

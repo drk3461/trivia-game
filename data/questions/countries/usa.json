@@ -1,0 +1,38 @@
+[
+  {
+    "id": "usa-1-1",
+    "level": 1,
+    "question": "Which state do people joke about when they say everything is bigger there, with a pickup truck in every driveway?",
+    "answer": "Texas",
+    "explanation": "Texans own the 'bigger' brand, from steaks to highways.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "usa-2-2",
+    "level": 2,
+    "question": "Ask for 'sweet ___' in a Southern restaurant and you'll get a glass of what?",
+    "answer": "Tea",
+    "explanation": "It's served ice-cold and very sugary.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "usa-3-3",
+    "level": 3,
+    "question": "In Minnesota, what do locals call a casserole that often includes tater tots?",
+    "answer": "Hotdish",
+    "explanation": "Church potlucks are basically built on it.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "usa-4-4",
+    "level": 4,
+    "question": "Which two states are best known for calling a drinking fountain a 'bubbler'?",
+    "answer": "Wisconsin and Rhode Island",
+    "explanation": "The word is a local marker in both places.",
+    "tags": [],
+    "needs_native_review": true
+  }
+]

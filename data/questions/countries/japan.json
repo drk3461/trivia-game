@@ -1,0 +1,38 @@
+[
+  {
+    "id": "japan-1-1",
+    "level": 1,
+    "question": "What do Japanese kids learn long before they can read, a small bow used to greet people?",
+    "answer": "Ojigi",
+    "explanation": "It's used for hello, thanks, and sorry.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "japan-2-2",
+    "level": 2,
+    "question": "In Japanese schools, who cleans the classrooms every afternoon?",
+    "answer": "The students",
+    "explanation": "Kids sweep, wipe desks and scrub, which is part of school life.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "japan-3-3",
+    "level": 3,
+    "question": "What does 'tsundoku' describe?",
+    "answer": "Buying books and letting them pile up unread",
+    "explanation": "Every book lover has a tsundoku tower.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "japan-4-4",
+    "level": 4,
+    "question": "Which style of comedy from Osaka uses a 'boke' and a 'tsukkomi' as the two roles?",
+    "answer": "Manzai",
+    "explanation": "The boke says silly things and the tsukkomi snaps back.",
+    "tags": [],
+    "needs_native_review": true
+  }
+]

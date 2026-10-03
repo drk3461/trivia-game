@@ -1,0 +1,38 @@
+[
+  {
+    "id": "nigeria-1-1",
+    "level": 1,
+    "question": "Nigerians famously feud over who makes the better jollof rice with which neighbouring country?",
+    "answer": "Ghana",
+    "explanation": "The jollof wars never really end.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "nigeria-2-2",
+    "level": 2,
+    "question": "In Nigerian slang, what is an 'owambe'?",
+    "answer": "A big, lavish party",
+    "explanation": "Think aso ebi outfits, loud music and endless food.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "nigeria-3-3",
+    "level": 3,
+    "question": "Nollywood ranks as the world's second-largest film industry by what measure?",
+    "answer": "Number of films produced",
+    "explanation": "Only India's industry makes more films each year.",
+    "tags": [],
+    "needs_native_review": true
+  },
+  {
+    "id": "nigeria-4-4",
+    "level": 4,
+    "question": "In Nigerian Pidgin, tacking 'abi' onto the end of a sentence turns it into what?",
+    "answer": "A question that means 'right?'",
+    "explanation": "'You dey come, abi?' means 'You're coming, right?'",
+    "tags": [],
+    "needs_native_review": true
+  }
+]

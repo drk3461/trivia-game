@@ -1,0 +1,34 @@
+[
+  {
+    "id": "gk-1-1",
+    "level": 1,
+    "question": "Which planet in our solar system has the most known moons?",
+    "answer": "Saturn",
+    "explanation": "Saturn passed Jupiter in the moon count in recent years.",
+    "tags": []
+  },
+  {
+    "id": "gk-2-2",
+    "level": 2,
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "1989",
+    "explanation": "It opened on 9 November 1989.",
+    "tags": []
+  },
+  {
+    "id": "gk-3-3",
+    "level": 3,
+    "question": "Which element has the chemical symbol W?",
+    "answer": "Tungsten",
+    "explanation": "The W comes from its other name, wolfram.",
+    "tags": []
+  },
+  {
+    "id": "gk-4-4",
+    "level": 4,
+    "question": "Which letter does not appear in the name of any US state?",
+    "answer": "Q",
+    "explanation": "Every other letter shows up at least once.",
+    "tags": []
+  }
+]

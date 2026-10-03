@@ -1,0 +1,38 @@
+[
+  {
+    "id": "flag-1-1",
+    "level": 1,
+    "question": "Which country's flag is this?",
+    "answer": "Japan",
+    "explanation": "A red disc on white, called the Hinomaru.",
+    "tags": [],
+    "image": "https://flagcdn.com/w320/jp.png"
+  },
+  {
+    "id": "flag-2-2",
+    "level": 2,
+    "question": "Which country's flag is this?",
+    "answer": "South Korea",
+    "explanation": "The taegeuk circle sits between four black trigrams.",
+    "tags": [],
+    "image": "https://flagcdn.com/w320/kr.png"
+  },
+  {
+    "id": "flag-3-3",
+    "level": 3,
+    "question": "This flag is almost identical to Romania's. Which country is it?",
+    "answer": "Chad",
+    "explanation": "Chad's blue is slightly darker than Romania's.",
+    "tags": [],
+    "image": "https://flagcdn.com/w320/td.png"
+  },
+  {
+    "id": "flag-4-4",
+    "level": 4,
+    "question": "This flag looks like Indonesia's, with only the proportions different. Which country is it?",
+    "answer": "Monaco",
+    "explanation": "Monaco's flag is 4:5, Indonesia's is 2:3.",
+    "tags": [],
+    "image": "https://flagcdn.com/w320/mc.png"
+  }
+]

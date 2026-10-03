@@ -1,0 +1,11 @@
+{
+  "name": "Team Trivia",
+  "short_name": "Trivia",
+  "description": "A 2-team trivia game for phones, tablets and big screens.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14123a",
+  "theme_color": "#14123a",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

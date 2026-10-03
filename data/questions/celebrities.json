@@ -1,0 +1,34 @@
+[
+  {
+    "id": "celeb-1-1",
+    "level": 1,
+    "question": "What was the name of Taylor Swift's record-breaking world tour that began in 2023?",
+    "answer": "The Eras Tour",
+    "explanation": "It covered every album era she had released.",
+    "tags": []
+  },
+  {
+    "id": "celeb-2-2",
+    "level": 2,
+    "question": "Which actor played Jack Dawson in Titanic and won his first Oscar for The Revenant?",
+    "answer": "Leonardo DiCaprio",
+    "explanation": "He won Best Actor at the 2016 ceremony.",
+    "tags": []
+  },
+  {
+    "id": "celeb-3-3",
+    "level": 3,
+    "question": "Which sprinter won both the 100m and 200m at three straight Olympics, from 2008 to 2016?",
+    "answer": "Usain Bolt",
+    "explanation": "He was later stripped of one 2008 relay gold over a teammate's doping.",
+    "tags": []
+  },
+  {
+    "id": "celeb-4-4",
+    "level": 4,
+    "question": "Which Colombian singer scored a 2006 hit with Wyclef Jean called 'Hips Don't Lie'?",
+    "answer": "Shakira",
+    "explanation": "It reached number one in the US and many other countries.",
+    "tags": []
+  }
+]
